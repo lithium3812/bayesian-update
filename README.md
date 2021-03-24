@@ -11,3 +11,4 @@ Probability of event A conditioned on B is denoted by P(A|B). Be aware of joint 
 \begin{equation}
 P(A|B) = \frac{P(A,B)}{P(B)}
 \end{equation}
+<img src="https://render.githubusercontent.com/render/math?math=P(A|B) = \frac{P(A,B)}{P(B)}">
