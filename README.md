@@ -8,7 +8,5 @@ In a tech-company I was working for before, I was responsible for data quality a
 ### Conditional probability
 Conditional probability is probability of a certain event occurring given that another certain event has occurred.
 Probability of event A conditioned on B is denoted by P(A|B). Be aware of joint probability P(A,B), which is the probability of two events A and B occur together. Definition is:
-\begin{equation}
-P(A|B) = \frac{P(A,B)}{P(B)}
-\end{equation}
+
 <img src="https://render.githubusercontent.com/render/math?math=P(A|B) = \frac{P(A,B)}{P(B)}">
